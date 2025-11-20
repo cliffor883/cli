@@ -97,6 +97,8 @@ jobs:
         with:
           go-version-file: go.mod
           cache: true
+      - name: Setup Cosign CLI
+        uses: sigstore/cosign-installer@v3
       - name: Install GoReleaser
         uses: goreleaser/goreleaser-action@v6
         with:

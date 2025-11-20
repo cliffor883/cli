@@ -2,17 +2,15 @@
 
 ## [1.0.2](https://github.com/awesome-directories/cli/compare/v1.0.1...v1.0.2) (2025-11-20)
 
-
 ### Bug Fixes
 
-* **CI:** do not ignore src codes ([2fe57e7](https://github.com/awesome-directories/cli/commit/2fe57e7fa503688f9b9729730b9d366223220607))
+- **CI:** do not ignore src codes ([2fe57e7](https://github.com/awesome-directories/cli/commit/2fe57e7fa503688f9b9729730b9d366223220607))
 
 ## [1.0.1](https://github.com/awesome-directories/cli/compare/v1.0.0...v1.0.1) (2025-11-20)
 
-
 ### Bug Fixes
 
-* **CI:** add brew token and remove completion dir ([3abe8c9](https://github.com/awesome-directories/cli/commit/3abe8c9c037232e16e4cf7a5f974634a1f33f0f9))
+- **CI:** add brew token and remove completion dir ([3abe8c9](https://github.com/awesome-directories/cli/commit/3abe8c9c037232e16e4cf7a5f974634a1f33f0f9))
 
 ## 1.0.0 (2025-11-20)
 

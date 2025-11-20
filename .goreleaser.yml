@@ -7,9 +7,10 @@ before:
   hooks:
     - go mod download
     - go mod tidy
-    - go run ./cmd/awesome-directories completion bash > awesome-directories.bash
-    - go run ./cmd/awesome-directories completion zsh > awesome-directories.zsh
-    - go run ./cmd/awesome-directories completion fish > awesome-directories.fish
+    - mkdir -p ./completions
+    - go run ./cmd/awesome-directories completion bash > ./completions/awesome-directories.bash
+    - go run ./cmd/awesome-directories completion zsh > ./completions/awesome-directories.zsh
+    - go run ./cmd/awesome-directories completion fish > ./completions/awesome-directories.fish
 
 builds:
   - main: ./cmd/awesome-directories
@@ -144,9 +145,9 @@ homebrew_casks:
     binaries:
       - awesome-directories
     completions:
-      bash: awesome-directories.bash
-      zsh: awesome-directories.zsh
-      fish: awesome-directories.fish
+      bash: ./completions/awesome-directories.bash
+      zsh: ./completions/awesome-directories.zsh
+      fish: ./completions/awesome-directories.fish
     repository:
       owner: awesome-directories
       name: homebrew-tap
